@@ -1,0 +1,6 @@
+{
+  "name": "DevDock",
+  "description": "DevDock is an ultra-modern, all-in-one developer productivity suite featuring interactive code editors, project visualizers, theme systems, and AI-powered intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
